@@ -1,0 +1,53 @@
+body{
+    background-color: #87DCC6;
+}
+
+.userCardContainer{
+    width: 300px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.userCardHeader{
+    background-image: url("./../img/backgrounds/starts_sky.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 140px;    
+}
+
+.userInfoContainer{
+    
+    text-align: center;
+    
+    
+}
+
+.userInfoContainer > * {
+
+    margin: 0 auto;    
+    
+}
+
+.profilePictureContainer{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+      margin-top: -60px;
+    
+    
+}
+
+.profilePictureContainer img {
+    
+    width: 120px;
+  
+    
+}
+
+
+
+
+
